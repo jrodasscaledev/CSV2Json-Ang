@@ -53,3 +53,7 @@ body {
 .outer-wrapper > *:not(router-outlet) {
   width: 100%;
 }
+
+div.nav-bar h5.separator, div.nav-bar h6.title {
+  color: black!important;
+}
